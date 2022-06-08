@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+WIP: Exemplo de utilização de sidekiq para grandes batchs
 
-Things you may want to cover:
+## Rodando o projeto
 
-* Ruby version
+```sh
+make start
+make create #se for a primeira vez
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Acessar o endereço http://localhost:3000
